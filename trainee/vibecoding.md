@@ -23,15 +23,16 @@ Máte zastaralý projekt? AI ho umí upravit tak, aby odpovídal dnešním stand
 
 Příklad promptu: *"Přepiš tento kód do moderní verze tak, aby byl rychlejší a přehlednější."*
 
-## Generujte testy
+## Nechte AI dělat rutinu
 
-Vytvářejte testovací případy pro ověření správnosti řešení.
-Příklad promptu: *"Napiš unit testy pro tuto funkci na zpracování dat, které pokryjí všechny hraniční případy."*
+Zapomeňte na nudné, opakující se úkoly. AI je zvládne za vás – ať už jde o generování textů, převod souborů nebo zpracování dat.
+
+Příklad promptu: *"Vytvoř skript, který mi každý týden stáhne nové e-maily a uloží je do tabulky."*
 
 ## Když ChatGPT nestačí
 
-Vibe coding nástrojů je dnes již hafo. Každý je zaměřen jiným směrem a lze je mezi sebou kvalitně kombinovat:
-*Ať už je to **v0** pro rychlé prototypy, **Bolt.new** a **Lovable** pro snadné webové projekty, **Github Copilot** a **Cursor** pro asistenci ve vývojové prostředí, a nebo třeba **Replit** pro snadné týmu kódování s AI.*
+Vibe coding nástrojů je dnes již hafo. Každý je zaměřen jiným směrem a lze je mezi sebou skvěle kombinovat:
+Ať už je to **v0** pro rychlé prototypy, **Bolt.new** a **Lovable** pro snadné webové projekty, **Github Copilot** a **Cursor** pro asistenci ve vývojovém prostředí, a nebo třeba **Replit** pro snadné kódování s AI v týmu.
 
 ## Design to \<Code /\>
 
